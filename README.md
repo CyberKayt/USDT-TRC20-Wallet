@@ -5,7 +5,7 @@
     
   <br><i>Finds all addresses in text on the clipboard, in files and connected USB devices, and changes them to the most similar ones from your list based on the first and last characters. Has protection against antivirus analysis
 </i>
-</p></p>
+</p>
 
 
 Вирус-клииппер (Crypto Clipper)
